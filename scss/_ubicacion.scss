@@ -1,0 +1,63 @@
+li {
+  list-style-type: none;
+  display: inline;
+}
+
+footer {
+  text-align: center;
+  margin-top: 30px;
+  margin-right: 0px;
+  margin-bottom: 10px;
+  margin-left: 0px;
+  height: 100px;
+  a {
+    margin-top: 30px;
+    margin-right: 80px;
+    margin-bottom: 0px;
+    margin-left: 80px;
+    position: relative;
+    top: 25px;
+  }
+}
+
+.container-fluid {
+  padding: 0px;
+  margin: 0px;
+}
+
+.contenido {
+  margin-top: 10px;
+  margin-right: 0px;
+  margin-bottom: 10px;
+  margin-left: 0px;
+}
+
+.texto {
+  display: relative;
+  top: 60px;
+  left: 100px;
+}
+
+.centrarTexto {
+  text-align: center;
+}
+
+.contenidoProductos {
+  margin-top: 100px;
+  margin-right: 0px;
+  margin-bottom: 100px;
+  margin-left: 0px;
+  h1 {
+    position: relative;
+    bottom: 50px;
+  }
+}
+
+.diseñoFormulario {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  input {
+    margin: 10px;
+  }
+}
